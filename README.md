@@ -1,5 +1,6 @@
 # Adept-Internship
-Python internship for practical learning with real-world projects in a dynamic environment
+Python internship for practical learning with real-world projects in a dynamic environment.
+
 Name: Mohammad Haider Abbas
 
 Institute: FAST National University of Computer and Emerging Sciences, Islamabad Campus
